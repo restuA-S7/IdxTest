@@ -1,2 +1,24 @@
+# .NET Core
 bin/
 obj/
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files for Web Deploy
+*.publishsettings
